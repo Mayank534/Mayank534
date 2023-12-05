@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <th><img src = "https://github-readme-stats.vercel.app/api?username=Mayank534&show_icons=true&hide_border=true&border_radius=0&count_private=true&theme=radical"></th>
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank534&langs_count=12&layout=compact&theme=radical"></th>
+    <th><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank534&langs_count=12&layout=compact&theme=radical"></th>
   </tr>
